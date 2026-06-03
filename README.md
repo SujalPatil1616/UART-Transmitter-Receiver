@@ -50,7 +50,7 @@ This project implements a UART (Universal Asynchronous Receiver Transmitter) sys
 
 * <h2>Waveform</h2>
 
-<img src="https://raw.githubusercontent.com/SujalPatil1616/UART-Transmitter/main/uart_waveform.png" width="900">
+<img src="https://github.com/SujalPatil1616/UART-Transmitter-Receiver/blob/main/uart_waveform.png" width="900">
 
 ## Result
 
